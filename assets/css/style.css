@@ -1,0 +1,71 @@
+
+body {
+  background-color: black;
+  color: red;
+  background-image: url(../images/background3.jpg);
+  font-family: 'Black Ops One', cursive;
+  text-align: center;
+}
+
+#display {
+  margin-top: 50px;
+  padding: 30px;
+  background-color: Black;
+  border: 5px solid red;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  background-color: Black;
+  border: 5px solid red;
+  box-shadow: 5px 5px 30px red;
+}
+
+.answer-button {
+  padding: 10px;
+  margin: 20px;
+}
+
+#reset-button {
+  margin: 20px;
+  padding: 5px;
+  height: 80px;
+  border: 5px solid aqua;
+}
+
+h2 {
+  margin: 20px;
+}
+
+h3 {
+  margin: 20px;
+}
+
+#timer {
+  margin-top: 20px;
+  font-size: 70px;
+}
+
+#startButton {
+  margin-top: 50px;
+  height: 80px;
+  border: 5px solid aqua;
+}
+
+.jumbotron {
+  background-image: url(../images/explosion-background.gif);
+  border-bottom: 5px solid orange;
+  box-shadow: 5px 5px 30px orange;
+}
+
+img {
+  border: 5px solid #ff0dbf;
+  box-shadow: 5px 5px 30px #ff0dbf;
+  margin: 25px;
+}
+
+.answer-button {
+  border: 5px solid #49fb35;
+  box-shadow: 5px #49fb35;
+}
